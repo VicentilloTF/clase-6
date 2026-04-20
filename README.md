@@ -44,9 +44,9 @@
 				<th>Diseño de Servicios y Experiencia</th>
 			</tr>
 			<tr>
-				<th>La interacción del Color; su anatomía y lenguaje</th>
-				<th>Morfología</th>
-				<th>Teoría y Aplicación del Color (CMF)</th>
+				<th>Inteligencia Artificial</th>
+				<th>Ciencia y Tecnología</th>
+				<th>Inteligencia Artificial y Datos</th>
 			</tr>
 			<tr>
 				<th>Ilustración editorial</th>
