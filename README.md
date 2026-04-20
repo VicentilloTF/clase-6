@@ -1,4 +1,4 @@
-<!doctype html>
+
 
 <title>Un fetch</title> <style> body { font-family: Helvetica, Arial, sans-serif;
         }
@@ -14,7 +14,6 @@
 			padding: 1 rem;
 		}
     </style>
-</head>
 <body>
     <h1>Mis Electivos</h1>
 	<table>
